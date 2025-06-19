@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/potfolio-dev21/static/css/main.0438f9ea.css",
+    "main.js": "/potfolio-dev21/static/js/main.507799f6.js",
+    "static/js/453.670e15c7.chunk.js": "/potfolio-dev21/static/js/453.670e15c7.chunk.js",
+    "static/media/profile.jpg": "/potfolio-dev21/static/media/profile.267d60be139f5385fc2b.jpg",
+    "index.html": "/potfolio-dev21/index.html",
+    "main.0438f9ea.css.map": "/potfolio-dev21/static/css/main.0438f9ea.css.map",
+    "main.507799f6.js.map": "/potfolio-dev21/static/js/main.507799f6.js.map",
+    "453.670e15c7.chunk.js.map": "/potfolio-dev21/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0438f9ea.css",
+    "static/js/main.507799f6.js"
+  ]
+}
